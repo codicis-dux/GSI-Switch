@@ -1,0 +1,20 @@
+{
+  "addons": {
+    "{d4bf4091-d52e-4965-8f39-fabbfb7f4b0f}": {
+      "updates": [
+        {
+          "version": "1.0",
+          "update_link": "https://github.com/codicis-dux/GSI-Switch/addon-1.0.xpi",
+          "applications": {
+	"gecko": { "strict_min_version": "56" }
+	},
+          "update_hash": "sha256:F9398DD49758C3B38F4AFB69DF8E005689E3167C05CB0F05CEFA6FE4B4A7D17E"
+        },
+        {
+          "version": "",
+          "update_link": "",
+        }
+      ]
+    }
+  }
+}
